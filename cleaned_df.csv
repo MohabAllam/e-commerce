@@ -1,0 +1,699 @@
+,UnitPrice,OrderValue,Quantit,Country,Major Category,Minor Category,InvoiceDateTime,year,month,day,hour
+0,0.85,10.2,12,United Kingdom,Clothes,Tops,2011-04-07 09:35:00,2011,April,Thursday,9
+1,2.95,35.4,12,United Kingdom,Clothes,Shoes,2011-11-15 09:26:00,2011,November,Tuesday,9
+2,1.25,20.0,16,United Kingdom,Kitchen,Cutlery,2011-04-27 10:54:00,2011,April,Wednesday,10
+3,7.46,7.46,1,United Kingdom,Garden,Turf,2011-10-31 13:48:00,2011,October,Monday,13
+4,2.51,2.51,1,United Kingdom,Garden,Hoses,2010-12-17 14:49:00,2010,December,Friday,14
+5,3.95,3.95,1,United Kingdom,Garden,Hoses,2011-12-06 12:38:00,2011,December,Tuesday,12
+6,2.1,12.6,6,United Kingdom,Clothes,Hats,2011-09-26 13:36:00,2011,September,Monday,13
+7,4.95,29.7,6,United Kingdom,Clothes,Tops,2011-05-12 12:01:00,2011,May,Thursday,12
+8,2.46,44.28,18,United Kingdom,Household,Curtains,2011-09-20 12:31:00,2011,September,Tuesday,12
+9,1.69,3.38,2,United Kingdom,Household,Lamps,2011-01-25 14:33:00,2011,January,Tuesday,14
+10,0.39,1.56,4,United Kingdom,Kitchen,Cooking Knives,2011-09-15 14:07:00,2011,September,Thursday,14
+11,0.55,0.55,1,United Kingdom,Household,Lamps,2011-04-18 14:01:00,2011,April,Monday,14
+12,12.75,25.5,2,United Kingdom,Household,Rugs,2010-12-13 15:45:00,2010,December,Monday,15
+13,1.25,30.0,24,United Kingdom,Household,Chairs,2011-10-12 10:23:00,2011,October,Wednesday,10
+14,1.65,16.5,10,United Kingdom,Clothes,Shoes,2011-04-08 08:20:00,2011,April,Friday,8
+15,1.65,1.65,1,United Kingdom,Kitchen,Coasters,2011-07-13 13:14:00,2011,July,Wednesday,13
+16,4.25,4.25,1,United Kingdom,Clothes,Tops,2010-12-06 12:41:00,2010,December,Monday,12
+17,2.1,25.2,12,United Kingdom,Kitchen,Scales,2011-08-24 15:08:00,2011,August,Wednesday,15
+18,4.25,25.5,6,United Kingdom,Household,Rugs,2011-08-05 10:32:00,2011,August,Friday,10
+19,1.28,1.28,1,United Kingdom,Clothes,Shoes,2010-12-17 16:59:00,2010,December,Friday,16
+20,2.95,2.95,1,United Kingdom,Household,Rugs,2010-12-05 11:49:00,2010,December,Sunday,11
+21,1.45,34.8,24,United Kingdom,Clothes,Hats,2011-04-10 15:09:00,2011,April,Sunday,15
+22,3.29,3.29,1,United Kingdom,Clothes,Shoes,2011-08-30 10:39:00,2011,August,Tuesday,10
+23,2.46,2.46,1,United Kingdom,Household,Chairs,2011-01-17 17:57:00,2011,January,Monday,17
+24,4.95,9.9,2,United Kingdom,Household,Curtains,2011-07-05 12:15:00,2011,July,Tuesday,12
+25,1.25,15.0,12,United Kingdom,Kitchen,Cooking Knives,2011-04-18 12:16:00,2011,April,Monday,12
+26,2.55,10.2,4,United Kingdom,Clothes,Shoes,2011-04-10 12:53:00,2011,April,Sunday,12
+27,0.83,0.83,1,United Kingdom,Kitchen,Cutlery,2011-04-18 13:58:00,2011,April,Monday,13
+28,7.95,7.95,1,United Kingdom,Clothes,Hats,2011-07-07 14:03:00,2011,July,Thursday,14
+29,2.1,12.6,6,United Kingdom,Kitchen,Plates,2011-03-08 09:23:00,2011,March,Tuesday,9
+30,7.08,424.8,60,United Kingdom,Garden,Turf,2011-09-27 14:07:00,2011,September,Tuesday,14
+31,0.21,6.3,30,United Kingdom,Household,Chairs,2011-11-13 11:46:00,2011,November,Sunday,11
+32,2.95,2.95,1,United Kingdom,Kitchen,Plates,2011-03-07 12:17:00,2011,March,Monday,12
+33,1.65,19.8,12,United Kingdom,Clothes,Hats,2011-01-06 14:07:00,2011,January,Thursday,14
+34,3.29,3.29,1,United Kingdom,Garden,Seeds,2011-04-26 17:02:00,2011,April,Tuesday,17
+35,1.63,9.78,6,United Kingdom,Household,Curtains,2011-01-19 15:08:00,2011,January,Wednesday,15
+36,1.25,25.0,20,United Kingdom,Clothes,Hats,2010-12-02 14:47:00,2010,December,Thursday,14
+37,2.95,2.95,1,United Kingdom,Kitchen,Cutlery,2011-12-07 14:43:00,2011,December,Wednesday,14
+38,7.95,15.9,2,United Kingdom,Garden,Turf,2011-04-05 12:08:00,2011,April,Tuesday,12
+39,1.65,19.8,12,United Kingdom,Garden,Hoses,2011-06-28 11:44:00,2011,June,Tuesday,11
+40,4.25,4.25,1,United Kingdom,Kitchen,Coasters,2011-03-08 15:45:00,2011,March,Tuesday,15
+41,0.29,6.96,24,United Kingdom,Garden,Hoses,2011-02-01 11:30:00,2011,February,Tuesday,11
+42,7.95,15.9,2,United Kingdom,Clothes,Tops,2011-06-28 11:44:00,2011,June,Tuesday,11
+43,8.29,8.29,1,United Kingdom,Garden,Turf,2011-01-20 18:01:00,2011,January,Thursday,18
+44,1.25,15.0,12,United Kingdom,Household,Curtains,2011-05-04 12:32:00,2011,May,Wednesday,12
+45,2.08,20.8,10,United Kingdom,Household,Curtains,2011-05-19 14:27:00,2011,May,Thursday,14
+46,0.83,0.83,1,United Kingdom,Kitchen,Coasters,2011-09-13 16:05:00,2011,September,Tuesday,16
+47,1.65,9.9,6,United Kingdom,Kitchen,Cutlery,2011-11-10 14:16:00,2011,November,Thursday,14
+48,1.45,2.9,2,United Kingdom,Household,Lamps,2011-10-24 14:36:00,2011,October,Monday,14
+49,2.95,11.8,4,United Kingdom,Household,Lamps,2011-02-01 13:25:00,2011,February,Tuesday,13
+50,0.55,13.2,24,United Kingdom,Garden,Rakes,2011-03-28 08:40:00,2011,March,Monday,8
+51,2.95,17.7,6,United Kingdom,Household,Chairs,2011-07-17 13:46:00,2011,July,Sunday,13
+52,5.91,23.64,4,United Kingdom,Kitchen,Plates,2010-12-17 14:54:00,2010,December,Friday,14
+53,4.13,4.13,1,United Kingdom,Kitchen,Cutlery,2011-06-01 17:33:00,2011,June,Wednesday,17
+54,7.46,7.46,1,United Kingdom,Garden,Rakes,2011-12-09 10:03:00,2011,December,Friday,10
+55,3.95,3.95,1,United Kingdom,Garden,Rakes,2011-09-25 11:22:00,2011,September,Sunday,11
+56,2.95,70.8,24,United Kingdom,Clothes,Hats,2011-03-07 12:00:00,2011,March,Monday,12
+57,1.95,15.6,8,United Kingdom,Kitchen,Plates,2011-12-07 09:35:00,2011,December,Wednesday,9
+58,2.1,25.2,12,United Kingdom,Kitchen,Coasters,2010-12-06 14:19:00,2010,December,Monday,14
+59,5.79,5.79,1,United Kingdom,Kitchen,Scales,2011-02-09 16:52:00,2011,February,Wednesday,16
+60,2.08,8.32,4,United Kingdom,Kitchen,Cooking Knives,2011-09-21 15:12:00,2011,September,Wednesday,15
+61,3.75,15.0,4,United Kingdom,Garden,Rakes,2011-11-06 14:06:00,2011,November,Sunday,14
+62,1.65,3.3,2,United Kingdom,Household,Curtains,2011-02-13 15:18:00,2011,February,Sunday,15
+63,0.85,8.5,10,United Kingdom,Clothes,Shoes,2011-03-29 09:11:00,2011,March,Tuesday,9
+64,4.95,59.4,12,United Kingdom,Household,Curtains,2011-11-10 14:16:00,2011,November,Thursday,14
+65,2.25,2.25,1,United Kingdom,Kitchen,Cutlery,2011-04-27 11:26:00,2011,April,Wednesday,11
+66,0.83,7.47,9,United Kingdom,Kitchen,Scales,2011-11-17 15:17:00,2011,November,Thursday,15
+67,0.85,1.7,2,United Kingdom,Household,Lamps,2010-12-10 14:59:00,2010,December,Friday,14
+68,14.96,14.96,1,United Kingdom,Household,Lamps,2011-09-21 15:29:00,2011,September,Wednesday,15
+69,8.5,8.5,1,United Kingdom,Household,Curtains,2011-12-08 19:29:00,2011,December,Thursday,19
+70,2.95,8.85,3,United Kingdom,Household,Curtains,2010-12-05 13:00:00,2010,December,Sunday,13
+71,8.29,8.29,1,United Kingdom,Clothes,Shoes,2011-05-10 15:07:00,2011,May,Tuesday,15
+72,1.65,9.9,6,United Kingdom,Kitchen,Scales,2011-03-21 15:10:00,2011,March,Monday,15
+73,2.08,2.08,1,United Kingdom,Clothes,Tops,2011-12-06 11:58:00,2011,December,Tuesday,11
+74,1.45,17.4,12,United Kingdom,Household,Lamps,2011-07-29 09:48:00,2011,July,Friday,9
+75,4.25,12.75,3,United Kingdom,Clothes,Tops,2011-03-28 09:21:00,2011,March,Monday,9
+76,5.79,5.79,1,United Kingdom,Garden,Seeds,2011-11-29 16:33:00,2011,November,Tuesday,16
+77,2.08,4.16,2,United Kingdom,Kitchen,Scales,2011-07-15 16:06:00,2011,July,Friday,16
+78,5.79,52.11,9,United Kingdom,Garden,Hoses,2011-09-02 09:38:00,2011,September,Friday,9
+79,1.25,52.5,42,United Kingdom,Clothes,Hats,2011-03-01 11:30:00,2011,March,Tuesday,11
+80,1.63,1.63,1,United Kingdom,Clothes,Shoes,2011-06-21 17:08:00,2011,June,Tuesday,17
+81,2.08,20.8,10,United Kingdom,Household,Curtains,2011-05-10 11:48:00,2011,May,Tuesday,11
+82,4.25,17.0,4,United Kingdom,Clothes,Shoes,2010-12-02 11:41:00,2010,December,Thursday,11
+83,0.85,0.85,1,United Kingdom,Clothes,Shoes,2011-10-20 11:03:00,2011,October,Thursday,11
+84,202.42,202.42,1,United Kingdom,Household,Chairs,2011-04-15 10:40:00,2011,April,Friday,10
+85,0.42,10.5,25,United Kingdom,Household,Rugs,2011-03-04 14:41:00,2011,March,Friday,14
+86,1.65,4.95,3,United Kingdom,Household,Rugs,2011-01-27 15:51:00,2011,January,Thursday,15
+87,3.36,23.52,7,United Kingdom,Kitchen,Coasters,2010-12-06 10:08:00,2010,December,Monday,10
+88,2.55,10.2,4,United Kingdom,Household,Rugs,2011-06-19 12:23:00,2011,June,Sunday,12
+89,2.89,5.78,2,United Kingdom,Kitchen,Plates,2011-09-18 15:32:00,2011,September,Sunday,15
+90,1.25,1.25,1,United Kingdom,Clothes,Tops,2011-11-27 16:05:00,2011,November,Sunday,16
+91,10.79,10.79,1,United Kingdom,Household,Lamps,2011-06-14 17:25:00,2011,June,Tuesday,17
+92,2.46,2.46,1,United Kingdom,Garden,Turf,2011-09-02 09:34:00,2011,September,Friday,9
+93,3.29,3.29,1,United Kingdom,Garden,Seeds,2011-12-06 16:26:00,2011,December,Tuesday,16
+94,4.13,20.65,5,United Kingdom,Garden,Seeds,2011-07-04 11:11:00,2011,July,Monday,11
+95,1.65,6.6,4,United Kingdom,Clothes,Shoes,2011-06-10 15:07:00,2011,June,Friday,15
+96,0.75,9.0,12,United Kingdom,Clothes,Shoes,2011-02-15 13:52:00,2011,February,Tuesday,13
+97,1.95,1.95,1,United Kingdom,Garden,Turf,2011-12-06 13:20:00,2011,December,Tuesday,13
+98,7.95,7.95,1,United Kingdom,Garden,Seeds,2011-02-28 11:19:00,2011,February,Monday,11
+99,1.25,1.25,1,United Kingdom,Garden,Rakes,2011-12-06 12:15:00,2011,December,Tuesday,12
+100,2.46,7.38,3,United Kingdom,Garden,Turf,2011-12-08 16:30:00,2011,December,Thursday,16
+101,0.62,7.44,12,United Kingdom,Household,Rugs,2011-10-24 08:59:00,2011,October,Monday,8
+102,4.95,4.95,1,United Kingdom,Clothes,Tops,2011-10-31 13:05:00,2011,October,Monday,13
+103,2.46,22.14,9,United Kingdom,Household,Curtains,2011-11-23 13:39:00,2011,November,Wednesday,13
+104,4.95,9.9,2,United Kingdom,Clothes,Tops,2011-08-18 13:01:00,2011,August,Thursday,13
+105,3.75,15.0,4,United Kingdom,Garden,Hoses,2011-08-09 09:26:00,2011,August,Tuesday,9
+106,2.1,6.3,3,United Kingdom,Household,Rugs,2011-10-10 11:47:00,2011,October,Monday,11
+107,7.46,7.46,1,United Kingdom,Garden,Turf,2011-01-17 17:44:00,2011,January,Monday,17
+108,7.95,15.9,2,United Kingdom,Clothes,Tops,2011-05-26 12:00:00,2011,May,Thursday,12
+109,0.29,0.29,1,United Kingdom,Kitchen,Plates,2011-11-28 10:46:00,2011,November,Monday,10
+110,1.65,4.95,3,United Kingdom,Garden,Rakes,2011-02-10 17:54:00,2011,February,Thursday,17
+111,0.65,3.9,6,United Kingdom,Garden,Turf,2011-09-04 14:08:00,2011,September,Sunday,14
+112,0.42,10.5,25,United Kingdom,Garden,Rakes,2011-06-08 17:09:00,2011,June,Wednesday,17
+113,1.95,5.85,3,United Kingdom,Clothes,Shoes,2011-07-26 10:20:00,2011,July,Tuesday,10
+114,1.25,1.25,1,United Kingdom,Clothes,Shoes,2011-04-11 14:13:00,2011,April,Monday,14
+115,2.08,20.8,10,United Kingdom,Kitchen,Bowls,2011-07-12 12:07:00,2011,July,Tuesday,12
+116,3.25,26.0,8,United Kingdom,Kitchen,Plates,2010-12-05 13:05:00,2010,December,Sunday,13
+117,0.83,0.83,1,United Kingdom,Garden,Turf,2011-09-23 17:02:00,2011,September,Friday,17
+118,1.63,1.63,1,United Kingdom,Garden,Hoses,2011-11-10 12:37:00,2011,November,Thursday,12
+119,4.95,29.7,6,United Kingdom,Clothes,Hats,2011-05-26 17:15:00,2011,May,Thursday,17
+120,1.25,7.5,6,United Kingdom,Garden,Rakes,2011-02-04 15:54:00,2011,February,Friday,15
+121,0.79,9.48,12,United Kingdom,Kitchen,Cooking Knives,2011-11-10 12:01:00,2011,November,Thursday,12
+122,1.25,3.75,3,United Kingdom,Kitchen,Bowls,2011-09-02 14:42:00,2011,September,Friday,14
+123,3.29,3.29,1,United Kingdom,Clothes,Shoes,2011-10-07 15:09:00,2011,October,Friday,15
+124,10.79,10.79,1,United Kingdom,Clothes,Tops,2011-11-15 17:00:00,2011,November,Tuesday,17
+125,3.75,3.75,1,United Kingdom,Kitchen,Coasters,2010-12-16 12:42:00,2010,December,Thursday,12
+126,1.25,3.75,3,United Kingdom,Household,Curtains,2011-11-09 17:47:00,2011,November,Wednesday,17
+127,1.25,15.0,12,United Kingdom,Clothes,Tops,2011-11-09 15:50:00,2011,November,Wednesday,15
+128,0.55,39.6,72,United Kingdom,Clothes,Shoes,2011-03-10 12:16:00,2011,March,Thursday,12
+129,1.45,2.9,2,United Kingdom,Garden,Turf,2011-10-02 14:25:00,2011,October,Sunday,14
+130,2.46,4.92,2,United Kingdom,Kitchen,Plates,2011-01-14 14:28:00,2011,January,Friday,14
+131,4.95,9.9,2,United Kingdom,Household,Rugs,2011-10-30 16:17:00,2011,October,Sunday,16
+132,4.13,4.13,1,United Kingdom,Clothes,Shoes,2011-11-07 12:06:00,2011,November,Monday,12
+133,2.08,24.96,12,United Kingdom,Clothes,Hats,2011-12-07 12:17:00,2011,December,Wednesday,12
+134,2.46,2.46,1,United Kingdom,Clothes,Tops,2011-09-02 16:39:00,2011,September,Friday,16
+135,0.55,13.2,24,United Kingdom,Garden,Seeds,2011-03-04 08:43:00,2011,March,Friday,8
+136,1.45,34.8,24,United Kingdom,Kitchen,Plates,2011-08-02 12:27:00,2011,August,Tuesday,12
+137,2.95,35.4,12,United Kingdom,Clothes,Shoes,2011-07-08 15:16:00,2011,July,Friday,15
+138,25.49,25.49,1,United Kingdom,Kitchen,Plates,2010-12-17 17:08:00,2010,December,Friday,17
+139,0.85,2.55,3,United Kingdom,Clothes,Tops,2011-11-28 13:06:00,2011,November,Monday,13
+140,1.65,1.65,1,United Kingdom,Garden,Seeds,2011-03-30 12:02:00,2011,March,Wednesday,12
+141,0.42,10.5,25,United Kingdom,Household,Curtains,2011-01-11 09:58:00,2011,January,Tuesday,9
+142,2.95,2.95,1,United Kingdom,Clothes,Tops,2011-03-17 20:18:00,2011,March,Thursday,20
+143,4.25,4.25,1,United Kingdom,Garden,Turf,2011-04-21 10:51:00,2011,April,Thursday,10
+144,2.08,20.8,10,United Kingdom,Household,Chairs,2011-12-07 14:52:00,2011,December,Wednesday,14
+145,1.25,15.0,12,United Kingdom,Household,Curtains,2011-03-24 12:52:00,2011,March,Thursday,12
+146,0.39,9.36,24,United Kingdom,Household,Rugs,2011-09-19 14:55:00,2011,September,Monday,14
+147,4.13,4.13,1,United Kingdom,Household,Curtains,2011-04-15 10:41:00,2011,April,Friday,10
+148,4.95,14.85,3,United Kingdom,Kitchen,Cutlery,2011-08-24 09:46:00,2011,August,Wednesday,9
+149,2.95,11.8,4,United Kingdom,Household,Lamps,2011-08-15 13:09:00,2011,August,Monday,13
+150,0.83,0.83,1,United Kingdom,Household,Chairs,2011-11-17 14:29:00,2011,November,Thursday,14
+151,1.25,7.5,6,United Kingdom,Clothes,Tops,2011-01-17 12:31:00,2011,January,Monday,12
+152,0.79,3.16,4,United Kingdom,Household,Lamps,2011-12-06 10:58:00,2011,December,Tuesday,10
+153,19.95,39.9,2,United Kingdom,Clothes,Hats,2011-05-24 17:46:00,2011,May,Tuesday,17
+154,1.65,19.8,12,United Kingdom,Kitchen,Scales,2011-08-10 10:09:00,2011,August,Wednesday,10
+155,0.83,1.66,2,United Kingdom,Household,Lamps,2011-07-07 16:30:00,2011,July,Thursday,16
+156,2.49,4.98,2,United Kingdom,Household,Curtains,2011-11-22 16:02:00,2011,November,Tuesday,16
+157,5.95,17.85,3,United Kingdom,Garden,Seeds,2011-06-14 12:00:00,2011,June,Tuesday,12
+158,4.95,39.6,8,United Kingdom,Kitchen,Plates,2011-06-20 13:41:00,2011,June,Monday,13
+159,1.66,6.64,4,United Kingdom,Household,Lamps,2010-12-21 15:19:00,2010,December,Tuesday,15
+160,7.46,29.84,4,United Kingdom,Clothes,Shoes,2011-12-07 10:35:00,2011,December,Wednesday,10
+161,3.29,3.29,1,United Kingdom,Garden,Seeds,2011-11-29 16:33:00,2011,November,Tuesday,16
+162,0.42,0.84,2,United Kingdom,Clothes,Shoes,2011-11-08 18:29:00,2011,November,Tuesday,18
+163,0.55,1.1,2,United Kingdom,Household,Curtains,2011-11-01 12:48:00,2011,November,Tuesday,12
+164,0.55,79.2,144,United Kingdom,Garden,Seeds,2011-07-12 16:37:00,2011,July,Tuesday,16
+165,4.95,4.95,1,United Kingdom,Kitchen,Scales,2010-12-01 11:45:00,2010,December,Wednesday,11
+166,1.25,2.5,2,United Kingdom,Garden,Turf,2011-10-02 13:26:00,2011,October,Sunday,13
+167,1.65,16.5,10,United Kingdom,Household,Lamps,2011-03-28 15:03:00,2011,March,Monday,15
+168,4.25,8.5,2,United Kingdom,Kitchen,Plates,2011-06-19 15:36:00,2011,June,Sunday,15
+169,1.63,1.63,1,United Kingdom,Household,Curtains,2011-05-03 16:06:00,2011,May,Tuesday,16
+170,2.46,2.46,1,United Kingdom,Household,Rugs,2011-06-20 15:32:00,2011,June,Monday,15
+171,1.45,1.45,1,United Kingdom,Clothes,Shoes,2011-11-27 12:52:00,2011,November,Sunday,12
+172,0.85,10.2,12,United Kingdom,Clothes,Shoes,2011-03-09 12:04:00,2011,March,Wednesday,12
+173,12.46,12.46,1,United Kingdom,Garden,Seeds,2011-04-15 10:39:00,2011,April,Friday,10
+174,7.95,31.8,4,United Kingdom,Kitchen,Scales,2011-11-08 13:10:00,2011,November,Tuesday,13
+175,4.13,4.13,1,United Kingdom,Clothes,Tops,2011-11-17 15:17:00,2011,November,Thursday,15
+176,1.25,1.25,1,United Kingdom,Clothes,Tops,2011-10-06 11:42:00,2011,October,Thursday,11
+177,1.45,1.45,1,United Kingdom,Garden,Seeds,2011-11-28 11:39:00,2011,November,Monday,11
+178,4.95,4.95,1,United Kingdom,Kitchen,Bowls,2011-07-14 12:29:00,2011,July,Thursday,12
+179,0.85,10.2,12,United Kingdom,Garden,Turf,2011-06-28 15:44:00,2011,June,Tuesday,15
+180,0.85,5.95,7,United Kingdom,Kitchen,Bowls,2011-11-23 12:45:00,2011,November,Wednesday,12
+181,2.55,15.3,6,United Kingdom,Kitchen,Plates,2011-11-24 14:42:00,2011,November,Thursday,14
+182,1.65,16.5,10,United Kingdom,Garden,Seeds,2011-10-17 15:18:00,2011,October,Monday,15
+183,4.95,44.55,9,United Kingdom,Kitchen,Cooking Knives,2011-10-14 09:21:00,2011,October,Friday,9
+184,4.95,29.7,6,United Kingdom,Clothes,Hats,2011-01-14 13:42:00,2011,January,Friday,13
+185,3.75,15.0,4,United Kingdom,Kitchen,Scales,2011-09-13 12:13:00,2011,September,Tuesday,12
+186,1.25,25.0,20,United Kingdom,Garden,Hoses,2011-11-02 09:31:00,2011,November,Wednesday,9
+187,0.79,15.8,20,United Kingdom,Household,Chairs,2011-11-23 13:27:00,2011,November,Wednesday,13
+188,0.38,1.52,4,United Kingdom,Household,Lamps,2011-09-11 14:09:00,2011,September,Sunday,14
+189,1.65,19.8,12,United Kingdom,Household,Curtains,2011-11-22 13:41:00,2011,November,Tuesday,13
+190,1.65,3.3,2,United Kingdom,Garden,Rakes,2011-04-07 11:40:00,2011,April,Thursday,11
+191,2.1,75.6,36,United Kingdom,Clothes,Shoes,2011-03-30 15:06:00,2011,March,Wednesday,15
+192,0.55,1.65,3,United Kingdom,Clothes,Shoes,2011-07-21 11:23:00,2011,July,Thursday,11
+193,0.42,0.84,2,United Kingdom,Kitchen,Cutlery,2011-11-20 12:36:00,2011,November,Sunday,12
+194,2.08,20.8,10,United Kingdom,Clothes,Hats,2011-09-28 10:39:00,2011,September,Wednesday,10
+195,2.95,17.7,6,United Kingdom,Kitchen,Bowls,2011-06-16 09:17:00,2011,June,Thursday,9
+196,1.63,4.89,3,United Kingdom,Clothes,Shoes,2011-09-21 15:29:00,2011,September,Wednesday,15
+197,2.51,2.51,1,United Kingdom,Garden,Turf,2011-01-11 13:16:00,2011,January,Tuesday,13
+198,2.08,4.16,2,United Kingdom,Household,Rugs,2011-07-25 13:57:00,2011,July,Monday,13
+199,2.55,2.55,1,United Kingdom,Household,Curtains,2010-12-14 13:33:00,2010,December,Tuesday,13
+200,9.95,9.95,1,United Kingdom,Kitchen,Cutlery,2011-08-17 15:53:00,2011,August,Wednesday,15
+201,1.65,19.8,12,United Kingdom,Clothes,Tops,2011-09-28 15:07:00,2011,September,Wednesday,15
+202,2.55,81.6,32,United Kingdom,Garden,Hoses,2011-11-30 08:23:00,2011,November,Wednesday,8
+203,8.29,8.29,1,United Kingdom,Garden,Hoses,2011-11-14 15:22:00,2011,November,Monday,15
+204,5.79,34.74,6,United Kingdom,Garden,Seeds,2011-02-09 12:46:00,2011,February,Wednesday,12
+205,1.45,1.45,1,United Kingdom,Clothes,Shoes,2011-05-25 11:12:00,2011,May,Wednesday,11
+206,2.08,4.16,2,United Kingdom,Household,Lamps,2011-05-08 15:22:00,2011,May,Sunday,15
+207,3.75,22.5,6,United Kingdom,Kitchen,Bowls,2011-12-08 16:10:00,2011,December,Thursday,16
+208,1.69,13.52,8,United Kingdom,Household,Rugs,2011-04-21 12:12:00,2011,April,Thursday,12
+209,1.25,2.5,2,United Kingdom,Clothes,Shoes,2011-05-17 13:35:00,2011,May,Tuesday,13
+210,3.75,11.25,3,United Kingdom,Kitchen,Plates,2011-11-24 12:11:00,2011,November,Thursday,12
+211,0.42,0.84,2,United Kingdom,Garden,Turf,2011-02-14 09:41:00,2011,February,Monday,9
+212,4.96,9.92,2,United Kingdom,Clothes,Tops,2011-11-30 14:11:00,2011,November,Wednesday,14
+213,4.24,4.24,1,United Kingdom,Garden,Hoses,2010-12-09 14:09:00,2010,December,Thursday,14
+214,1.65,19.8,12,United Kingdom,Clothes,Shoes,2011-10-14 12:25:00,2011,October,Friday,12
+215,2.1,2.1,1,United Kingdom,Household,Chairs,2011-11-29 14:20:00,2011,November,Tuesday,14
+216,4.96,19.84,4,United Kingdom,Household,Rugs,2011-05-31 14:58:00,2011,May,Tuesday,14
+217,0.55,85.8,156,United Kingdom,Clothes,Tops,2011-06-22 11:43:00,2011,June,Wednesday,11
+218,3.75,22.5,6,United Kingdom,Garden,Turf,2011-05-24 10:33:00,2011,May,Tuesday,10
+219,7.95,15.9,2,United Kingdom,Garden,Hoses,2011-01-30 12:09:00,2011,January,Sunday,12
+220,0.85,8.5,10,United Kingdom,Garden,Turf,2011-03-10 12:50:00,2011,March,Thursday,12
+221,1.65,39.6,24,United Kingdom,Household,Chairs,2011-11-16 09:28:00,2011,November,Wednesday,9
+222,1.25,12.5,10,United Kingdom,Household,Rugs,2011-07-26 10:20:00,2011,July,Tuesday,10
+223,4.95,4.95,1,United Kingdom,Kitchen,Scales,2011-01-09 14:21:00,2011,January,Sunday,14
+224,0.85,1.7,2,United Kingdom,Household,Lamps,2011-10-07 11:32:00,2011,October,Friday,11
+225,2.95,2.95,1,United Kingdom,Kitchen,Plates,2011-11-22 12:07:00,2011,November,Tuesday,12
+226,6.63,79.56,12,United Kingdom,Garden,Hoses,2011-11-23 13:39:00,2011,November,Wednesday,13
+227,1.65,19.8,12,United Kingdom,Kitchen,Cutlery,2011-11-10 10:45:00,2011,November,Thursday,10
+228,0.42,1.68,4,United Kingdom,Household,Curtains,2011-06-02 11:13:00,2011,June,Thursday,11
+229,1.45,1.45,1,United Kingdom,Clothes,Hats,2011-10-09 10:48:00,2011,October,Sunday,10
+230,1.25,1.25,1,United Kingdom,Clothes,Tops,2011-08-17 17:01:00,2011,August,Wednesday,17
+231,5.95,35.7,6,United Kingdom,Garden,Seeds,2011-06-06 11:37:00,2011,June,Monday,11
+232,1.66,3.32,2,United Kingdom,Clothes,Tops,2010-12-20 10:14:00,2010,December,Monday,10
+233,8.25,16.5,2,United Kingdom,Kitchen,Cutlery,2011-11-29 10:01:00,2011,November,Tuesday,10
+234,2.95,2.95,1,United Kingdom,Garden,Hoses,2011-06-15 12:36:00,2011,June,Wednesday,12
+235,2.08,20.8,10,United Kingdom,Household,Curtains,2011-05-26 13:34:00,2011,May,Thursday,13
+236,4.96,4.96,1,United Kingdom,Household,Lamps,2011-06-01 17:28:00,2011,June,Wednesday,17
+237,1.25,25.0,20,United Kingdom,Kitchen,Cutlery,2011-05-16 12:20:00,2011,May,Monday,12
+238,1.66,1.66,1,United Kingdom,Clothes,Shoes,2011-01-05 16:50:00,2011,January,Wednesday,16
+239,2.95,2.95,1,United Kingdom,Garden,Seeds,2011-10-02 14:56:00,2011,October,Sunday,14
+240,3.75,15.0,4,United Kingdom,Garden,Turf,2011-08-26 14:45:00,2011,August,Friday,14
+241,2.95,35.4,12,United Kingdom,Kitchen,Plates,2011-02-14 14:14:00,2011,February,Monday,14
+242,0.29,1.45,5,United Kingdom,Kitchen,Plates,2011-11-27 16:27:00,2011,November,Sunday,16
+243,0.39,14.04,36,United Kingdom,Clothes,Hats,2011-07-14 09:58:00,2011,July,Thursday,9
+244,4.13,16.52,4,United Kingdom,Garden,Turf,2011-03-22 16:55:00,2011,March,Tuesday,16
+245,5.75,23.0,4,United Kingdom,Clothes,Shoes,2011-08-24 14:57:00,2011,August,Wednesday,14
+246,9.95,39.8,4,United Kingdom,Clothes,Hats,2011-06-09 11:49:00,2011,June,Thursday,11
+247,0.29,1.74,6,United Kingdom,Household,Curtains,2011-09-11 15:50:00,2011,September,Sunday,15
+248,2.95,35.4,12,United Kingdom,Kitchen,Scales,2011-09-19 13:20:00,2011,September,Monday,13
+249,5.79,5.79,1,United Kingdom,Garden,Rakes,2011-02-24 18:07:00,2011,February,Thursday,18
+250,1.65,13.2,8,United Kingdom,Garden,Rakes,2010-12-09 14:56:00,2010,December,Thursday,14
+251,4.25,4.25,1,United Kingdom,Kitchen,Plates,2011-03-23 13:59:00,2011,March,Wednesday,13
+252,1.45,34.8,24,United Kingdom,Garden,Turf,2011-07-29 10:00:00,2011,July,Friday,10
+253,2.55,7.65,3,United Kingdom,Clothes,Tops,2011-09-08 11:56:00,2011,September,Thursday,11
+254,1.63,1.63,1,United Kingdom,Kitchen,Bowls,2011-08-10 16:51:00,2011,August,Wednesday,16
+255,4.13,4.13,1,United Kingdom,Garden,Hoses,2011-04-26 09:50:00,2011,April,Tuesday,9
+256,3.95,15.8,4,United Kingdom,Kitchen,Cooking Knives,2011-02-01 12:27:00,2011,February,Tuesday,12
+257,3.29,6.58,2,United Kingdom,Kitchen,Scales,2011-09-02 09:30:00,2011,September,Friday,9
+258,1.7,163.2,96,United Kingdom,Garden,Rakes,2011-11-03 15:32:00,2011,November,Thursday,15
+259,0.39,1.17,3,United Kingdom,Clothes,Tops,2011-11-23 13:27:00,2011,November,Wednesday,13
+260,0.29,6.38,22,United Kingdom,Kitchen,Scales,2011-11-16 15:51:00,2011,November,Wednesday,15
+261,0.55,0.55,1,United Kingdom,Household,Lamps,2011-11-08 14:22:00,2011,November,Tuesday,14
+262,0.83,5.81,7,United Kingdom,Household,Lamps,2011-12-08 09:28:00,2011,December,Thursday,9
+263,1.06,445.2,420,United Kingdom,Household,Curtains,2011-02-03 10:50:00,2011,February,Thursday,10
+264,12.75,51.0,4,United Kingdom,Kitchen,Plates,2011-06-05 13:16:00,2011,June,Sunday,13
+265,2.1,14.7,7,United Kingdom,Clothes,Hats,2011-12-06 17:18:00,2011,December,Tuesday,17
+266,1.25,15.0,12,United Kingdom,Garden,Seeds,2011-09-22 12:55:00,2011,September,Thursday,12
+267,1.25,30.0,24,United Kingdom,Kitchen,Cooking Knives,2011-05-01 14:59:00,2011,May,Sunday,14
+268,12.5,12.5,1,United Kingdom,Household,Curtains,2011-12-01 19:42:00,2011,December,Thursday,19
+269,5.06,10.12,2,United Kingdom,Clothes,Hats,2010-12-07 15:31:00,2010,December,Tuesday,15
+270,10.79,323.7,30,United Kingdom,Kitchen,Scales,2011-07-05 15:31:00,2011,July,Tuesday,15
+271,2.1,12.6,6,United Kingdom,Kitchen,Scales,2011-06-09 10:20:00,2011,June,Thursday,10
+272,2.08,20.8,10,United Kingdom,Clothes,Tops,2011-11-17 11:45:00,2011,November,Thursday,11
+273,0.19,0.38,2,United Kingdom,Clothes,Tops,2011-09-11 14:09:00,2011,September,Sunday,14
+274,2.95,17.7,6,United Kingdom,Garden,Rakes,2010-12-01 12:03:00,2010,December,Wednesday,12
+275,2.25,2.25,1,United Kingdom,Clothes,Shoes,2011-08-05 16:19:00,2011,August,Friday,16
+276,8.29,8.29,1,United Kingdom,Clothes,Shoes,2011-01-21 15:00:00,2011,January,Friday,15
+277,4.96,69.44,14,United Kingdom,Household,Chairs,2011-05-03 09:44:00,2011,May,Tuesday,9
+278,5.79,11.58,2,United Kingdom,Kitchen,Bowls,2011-05-03 16:06:00,2011,May,Tuesday,16
+279,2.51,2.51,1,United Kingdom,Garden,Rakes,2011-01-07 13:55:00,2011,January,Friday,13
+280,4.95,4.95,1,United Kingdom,Garden,Seeds,2010-12-10 11:02:00,2010,December,Friday,11
+281,1.25,1.25,1,United Kingdom,Kitchen,Coasters,2011-11-29 15:09:00,2011,November,Tuesday,15
+282,1.25,7.5,6,United Kingdom,Kitchen,Coasters,2010-12-13 17:40:00,2010,December,Monday,17
+283,1.65,19.8,12,United Kingdom,Kitchen,Coasters,2011-11-18 17:11:00,2011,November,Friday,17
+284,0.85,2.55,3,United Kingdom,Household,Chairs,2011-03-11 11:37:00,2011,March,Friday,11
+285,0.42,5.04,12,United Kingdom,Household,Lamps,2011-11-14 14:24:00,2011,November,Monday,14
+286,1.65,99.0,60,United Kingdom,Kitchen,Scales,2011-10-06 11:53:00,2011,October,Thursday,11
+287,5.95,11.9,2,United Kingdom,Kitchen,Cooking Knives,2011-06-03 08:54:00,2011,June,Friday,8
+288,4.95,4.95,1,United Kingdom,Garden,Turf,2011-04-05 15:00:00,2011,April,Tuesday,15
+289,0.42,10.08,24,United Kingdom,Household,Chairs,2011-09-30 12:35:00,2011,September,Friday,12
+290,4.15,4.15,1,United Kingdom,Household,Lamps,2011-09-23 12:38:00,2011,September,Friday,12
+291,0.55,13.2,24,United Kingdom,Garden,Hoses,2011-01-25 12:35:00,2011,January,Tuesday,12
+292,0.85,3.4,4,United Kingdom,Clothes,Shoes,2011-10-16 13:51:00,2011,October,Sunday,13
+293,0.39,9.36,24,United Kingdom,Clothes,Hats,2011-10-17 14:01:00,2011,October,Monday,14
+294,4.95,39.6,8,United Kingdom,Kitchen,Bowls,2011-06-17 11:38:00,2011,June,Friday,11
+295,0.42,5.04,12,United Kingdom,Garden,Turf,2011-11-16 12:25:00,2011,November,Wednesday,12
+296,1.25,7.5,6,United Kingdom,Clothes,Shoes,2011-04-17 13:05:00,2011,April,Sunday,13
+297,1.25,3.75,3,United Kingdom,Garden,Seeds,2011-11-11 15:08:00,2011,November,Friday,15
+298,2.95,17.7,6,United Kingdom,Household,Lamps,2011-02-07 09:48:00,2011,February,Monday,9
+299,0.83,1.66,2,United Kingdom,Garden,Rakes,2011-06-13 15:30:00,2011,June,Monday,15
+300,0.65,7.8,12,Germany,Garden,Hoses,2011-01-31 09:05:00,2011,January,Monday,9
+301,2.1,25.2,12,Germany,Clothes,Hats,2011-10-21 15:20:00,2011,October,Friday,15
+302,1.25,15.0,12,Germany,Kitchen,Plates,2011-11-22 13:27:00,2011,November,Tuesday,13
+303,0.85,8.5,10,Germany,Household,Lamps,2011-06-05 13:45:00,2011,June,Sunday,13
+304,2.1,50.4,24,Germany,Household,Rugs,2011-12-04 13:54:00,2011,December,Sunday,13
+305,8.5,34.0,4,Germany,Household,Chairs,2011-04-19 13:39:00,2011,April,Tuesday,13
+306,0.65,23.4,36,Germany,Clothes,Hats,2011-08-22 12:40:00,2011,August,Monday,12
+307,7.95,15.9,2,Germany,Kitchen,Cutlery,2011-10-17 09:37:00,2011,October,Monday,9
+308,4.95,14.85,3,Germany,Garden,Rakes,2011-08-02 09:29:00,2011,August,Tuesday,9
+309,0.42,10.5,25,Germany,Clothes,Tops,2011-07-19 14:04:00,2011,July,Tuesday,14
+310,0.39,4.68,12,Germany,Household,Curtains,2011-10-19 08:20:00,2011,October,Wednesday,8
+311,2.1,126.0,60,Germany,Kitchen,Plates,2011-05-12 14:46:00,2011,May,Thursday,14
+312,0.65,390.0,600,Germany,Garden,Seeds,2011-05-12 14:46:00,2011,May,Thursday,14
+313,0.85,10.2,12,Germany,Clothes,Hats,2011-01-07 10:04:00,2011,January,Friday,10
+314,0.85,20.4,24,Germany,Kitchen,Scales,2010-12-23 12:58:00,2010,December,Thursday,12
+315,1.65,19.8,12,Germany,Garden,Rakes,2011-08-30 08:15:00,2011,August,Tuesday,8
+316,1.65,33.0,20,Germany,Garden,Rakes,2011-06-13 10:52:00,2011,June,Monday,10
+317,5.95,35.7,6,Germany,Garden,Seeds,2011-11-22 13:27:00,2011,November,Tuesday,13
+318,7.95,15.9,2,Germany,Kitchen,Cutlery,2011-07-04 14:36:00,2011,July,Monday,14
+319,0.42,10.5,25,Germany,Garden,Rakes,2011-03-28 13:57:00,2011,March,Monday,13
+320,0.85,17.0,20,Germany,Kitchen,Plates,2011-11-16 13:54:00,2011,November,Wednesday,13
+321,18.0,144.0,8,Germany,Garden,Turf,2011-05-12 09:54:00,2011,May,Thursday,9
+322,2.95,17.7,6,Germany,Household,Curtains,2011-08-31 15:30:00,2011,August,Wednesday,15
+323,0.42,10.5,25,Germany,Household,Lamps,2011-08-23 11:47:00,2011,August,Tuesday,11
+324,2.08,37.44,18,Germany,Household,Chairs,2011-11-29 13:00:00,2011,November,Tuesday,13
+325,0.42,10.5,25,Germany,Garden,Rakes,2011-11-11 11:18:00,2011,November,Friday,11
+326,1.25,15.0,12,Germany,Garden,Hoses,2011-12-07 08:03:00,2011,December,Wednesday,8
+327,1.25,75.0,60,Germany,Clothes,Tops,2011-07-27 13:00:00,2011,July,Wednesday,13
+328,4.95,19.8,4,Germany,Household,Chairs,2011-06-13 14:13:00,2011,June,Monday,14
+329,5.45,16.35,3,Germany,Clothes,Tops,2011-09-04 12:00:00,2011,September,Sunday,12
+330,0.85,10.2,12,Germany,Clothes,Shoes,2011-01-07 12:28:00,2011,January,Friday,12
+331,1.65,19.8,12,Germany,Household,Chairs,2011-08-01 10:26:00,2011,August,Monday,10
+332,7.95,15.9,2,Germany,Clothes,Hats,2011-02-10 11:39:00,2011,February,Thursday,11
+333,2.08,20.8,10,Germany,Garden,Rakes,2011-04-07 10:24:00,2011,April,Thursday,10
+334,1.25,22.5,18,Germany,Household,Lamps,2011-11-21 10:22:00,2011,November,Monday,10
+335,2.08,12.48,6,Germany,Clothes,Hats,2011-06-13 10:33:00,2011,June,Monday,10
+336,1.45,17.4,12,Germany,Clothes,Hats,2011-09-23 12:55:00,2011,September,Friday,12
+337,1.95,15.6,8,Germany,Kitchen,Cutlery,2010-12-05 14:19:00,2010,December,Sunday,14
+338,7.95,15.9,2,Germany,Household,Curtains,2011-01-10 09:48:00,2011,January,Monday,9
+339,4.15,16.6,4,Germany,Kitchen,Cutlery,2011-10-13 14:59:00,2011,October,Thursday,14
+340,1.25,15.0,12,Germany,Garden,Rakes,2011-07-20 10:51:00,2011,July,Wednesday,10
+341,4.95,19.8,4,Germany,Clothes,Hats,2011-05-27 10:29:00,2011,May,Friday,10
+342,2.55,15.3,6,Germany,Kitchen,Cooking Knives,2011-09-06 14:19:00,2011,September,Tuesday,14
+343,2.95,17.7,6,Germany,Household,Curtains,2011-01-07 12:28:00,2011,January,Friday,12
+344,1.65,19.8,12,Germany,Garden,Hoses,2011-10-18 12:48:00,2011,October,Tuesday,12
+345,2.08,20.8,10,Germany,Clothes,Tops,2011-11-16 13:54:00,2011,November,Wednesday,13
+346,0.85,20.4,24,Germany,Kitchen,Cutlery,2011-01-24 13:27:00,2011,January,Monday,13
+347,0.85,8.5,10,Germany,Kitchen,Plates,2011-06-10 15:28:00,2011,June,Friday,15
+348,2.95,17.7,6,Germany,Garden,Seeds,2011-09-21 15:23:00,2011,September,Wednesday,15
+349,3.75,30.0,8,Germany,Garden,Turf,2011-01-31 13:27:00,2011,January,Monday,13
+350,3.75,15.0,4,Germany,Household,Lamps,2011-11-16 17:25:00,2011,November,Wednesday,17
+351,1.95,23.4,12,Germany,Household,Curtains,2011-06-01 10:15:00,2011,June,Wednesday,10
+352,12.75,12.75,1,Germany,Kitchen,Cooking Knives,2011-10-06 15:51:00,2011,October,Thursday,15
+353,10.95,350.4,32,Germany,Household,Rugs,2011-02-03 10:47:00,2011,February,Thursday,10
+354,0.39,4.68,12,Germany,Household,Rugs,2011-12-08 11:25:00,2011,December,Thursday,11
+355,10.95,65.7,6,Germany,Clothes,Tops,2011-05-19 09:37:00,2011,May,Thursday,9
+356,0.29,6.96,24,Germany,Kitchen,Coasters,2011-09-04 12:00:00,2011,September,Sunday,12
+357,2.55,15.3,6,Germany,Garden,Seeds,2011-06-01 10:15:00,2011,June,Wednesday,10
+358,1.45,17.4,12,Germany,Clothes,Hats,2011-06-02 09:04:00,2011,June,Thursday,9
+359,0.65,7.8,12,Germany,Kitchen,Scales,2011-04-08 09:54:00,2011,April,Friday,9
+360,2.95,14.75,5,Germany,Garden,Turf,2011-07-20 14:38:00,2011,July,Wednesday,14
+361,2.55,30.6,12,Germany,Household,Chairs,2011-02-21 13:40:00,2011,February,Monday,13
+362,3.75,15.0,4,Germany,Kitchen,Cooking Knives,2011-03-16 13:58:00,2011,March,Wednesday,13
+363,4.95,44.55,9,Germany,Clothes,Shoes,2011-09-26 15:35:00,2011,September,Monday,15
+364,2.95,17.7,6,Germany,Garden,Hoses,2011-11-24 13:17:00,2011,November,Thursday,13
+365,1.25,15.0,12,Germany,Garden,Rakes,2011-12-08 11:25:00,2011,December,Thursday,11
+366,0.55,13.2,24,Germany,Clothes,Hats,2011-09-23 09:00:00,2011,September,Friday,9
+367,0.85,20.4,24,Germany,Household,Chairs,2010-12-05 14:19:00,2010,December,Sunday,14
+368,0.85,81.6,96,Germany,Household,Chairs,2010-12-10 09:35:00,2010,December,Friday,9
+369,14.95,89.7,6,Germany,Kitchen,Scales,2010-12-17 11:52:00,2010,December,Friday,11
+370,4.95,14.85,3,Germany,Clothes,Tops,2011-09-28 13:30:00,2011,September,Wednesday,13
+371,3.25,19.5,6,Germany,Clothes,Hats,2011-09-28 13:30:00,2011,September,Wednesday,13
+372,4.95,14.85,3,Germany,Garden,Hoses,2011-03-07 10:22:00,2011,March,Monday,10
+373,2.08,12.48,6,Germany,Household,Rugs,2011-10-28 14:27:00,2011,October,Friday,14
+374,0.85,20.4,24,Germany,Garden,Rakes,2011-01-25 15:13:00,2011,January,Tuesday,15
+375,18.0,72.0,4,Germany,Kitchen,Cooking Knives,2011-11-15 15:42:00,2011,November,Tuesday,15
+376,1.25,15.0,12,Germany,Garden,Rakes,2011-08-31 09:11:00,2011,August,Wednesday,9
+377,9.95,19.9,2,Germany,Clothes,Tops,2011-01-07 12:28:00,2011,January,Friday,12
+378,1.65,16.5,10,Germany,Clothes,Tops,2011-09-22 16:34:00,2011,September,Thursday,16
+379,1.65,16.5,10,Germany,Clothes,Hats,2011-08-22 15:55:00,2011,August,Monday,15
+380,1.65,39.6,24,Germany,Clothes,Hats,2011-01-27 13:08:00,2011,January,Thursday,13
+381,4.25,17.0,4,Germany,Clothes,Tops,2011-10-20 12:53:00,2011,October,Thursday,12
+382,1.65,19.8,12,Germany,Garden,Seeds,2011-07-21 15:14:00,2011,July,Thursday,15
+383,0.85,10.2,12,Germany,Garden,Rakes,2011-03-22 15:42:00,2011,March,Tuesday,15
+384,8.5,68.0,8,Germany,Garden,Hoses,2011-11-18 08:56:00,2011,November,Friday,8
+385,1.25,15.0,12,Germany,Kitchen,Cutlery,2011-11-16 17:25:00,2011,November,Wednesday,17
+386,0.42,8.4,20,Germany,Garden,Rakes,2011-10-20 12:53:00,2011,October,Thursday,12
+387,4.95,14.85,3,Germany,Clothes,Hats,2011-10-13 14:59:00,2011,October,Thursday,14
+388,1.45,69.6,48,Germany,Garden,Turf,2011-01-25 13:37:00,2011,January,Tuesday,13
+389,1.45,17.4,12,Germany,Clothes,Hats,2011-01-11 10:38:00,2011,January,Tuesday,10
+390,2.08,24.96,12,Germany,Clothes,Hats,2011-07-07 12:38:00,2011,July,Thursday,12
+391,1.65,19.8,12,Germany,Garden,Rakes,2011-10-06 15:51:00,2011,October,Thursday,15
+392,10.95,10.95,1,Germany,Clothes,Shoes,2011-09-11 11:04:00,2011,September,Sunday,11
+393,1.0,24.0,24,Germany,Clothes,Shoes,2011-09-26 15:35:00,2011,September,Monday,15
+394,18.0,36.0,2,Germany,Kitchen,Coasters,2011-07-17 10:53:00,2011,July,Sunday,10
+395,2.95,35.4,12,Germany,Household,Chairs,2011-04-14 13:59:00,2011,April,Thursday,13
+396,2.95,23.6,8,Germany,Garden,Rakes,2011-02-10 11:39:00,2011,February,Thursday,11
+397,0.65,7.8,12,Germany,Kitchen,Bowls,2011-05-22 14:03:00,2011,May,Sunday,14
+398,0.42,10.08,24,Germany,Kitchen,Bowls,2011-07-17 10:53:00,2011,July,Sunday,10
+399,0.85,10.2,12,Germany,Clothes,Tops,2011-11-02 14:57:00,2011,November,Wednesday,14
+400,0.55,13.2,24,France,Kitchen,Scales,2011-01-06 14:26:00,2011,January,Thursday,14
+401,0.85,10.2,12,France,Household,Lamps,2011-11-03 10:45:00,2011,November,Thursday,10
+402,1.25,30.0,24,France,Household,Lamps,2010-12-09 12:17:00,2010,December,Thursday,12
+403,12.5,12.5,1,France,Garden,Turf,2011-10-06 17:28:00,2011,October,Thursday,17
+404,0.42,10.08,24,France,Kitchen,Cutlery,2011-11-29 11:46:00,2011,November,Tuesday,11
+405,1.65,16.5,10,France,Garden,Seeds,2011-03-14 11:38:00,2011,March,Monday,11
+406,0.42,6.72,16,France,Kitchen,Plates,2011-09-14 14:19:00,2011,September,Wednesday,14
+407,0.65,7.8,12,France,Garden,Seeds,2011-03-25 10:19:00,2011,March,Friday,10
+408,2.55,30.6,12,France,Household,Lamps,2011-06-13 11:41:00,2011,June,Monday,11
+409,1.25,15.0,12,France,Kitchen,Cutlery,2010-12-03 13:59:00,2010,December,Friday,13
+410,5.95,17.85,3,France,Kitchen,Scales,2011-03-25 10:19:00,2011,March,Friday,10
+411,1.25,30.0,24,France,Garden,Seeds,2011-06-09 17:53:00,2011,June,Thursday,17
+412,2.95,70.8,24,France,Kitchen,Cutlery,2011-11-29 15:23:00,2011,November,Tuesday,15
+413,2.95,17.7,6,France,Garden,Seeds,2011-11-10 13:34:00,2011,November,Thursday,13
+414,0.39,4.68,12,France,Garden,Hoses,2011-11-30 15:43:00,2011,November,Wednesday,15
+415,2.55,7.65,3,France,Garden,Hoses,2011-11-10 16:27:00,2011,November,Thursday,16
+416,2.95,53.1,18,France,Household,Curtains,2011-01-28 10:45:00,2011,January,Friday,10
+417,2.1,12.6,6,France,Clothes,Shoes,2011-01-06 14:26:00,2011,January,Thursday,14
+418,1.45,139.2,96,France,Kitchen,Cooking Knives,2011-03-31 13:40:00,2011,March,Thursday,13
+419,1.65,1.65,1,France,Clothes,Tops,2011-11-04 13:24:00,2011,November,Friday,13
+420,12.75,51.0,4,France,Clothes,Hats,2011-02-21 08:38:00,2011,February,Monday,8
+421,1.25,12.5,10,France,Household,Curtains,2011-07-29 13:28:00,2011,July,Friday,13
+422,0.83,6.64,8,France,Household,Chairs,2011-09-30 13:06:00,2011,September,Friday,13
+423,3.75,15.0,4,France,Garden,Seeds,2011-03-04 09:08:00,2011,March,Friday,9
+424,2.1,63.0,30,France,Garden,Hoses,2011-05-03 09:33:00,2011,May,Tuesday,9
+425,1.25,30.0,24,France,Clothes,Tops,2011-09-23 12:09:00,2011,September,Friday,12
+426,3.25,19.5,6,France,Garden,Hoses,2011-11-28 15:47:00,2011,November,Monday,15
+427,3.25,19.5,6,France,Garden,Hoses,2011-02-18 10:53:00,2011,February,Friday,10
+428,1.95,15.6,8,France,Kitchen,Scales,2011-11-14 08:31:00,2011,November,Monday,8
+429,1.25,30.0,24,France,Kitchen,Coasters,2011-11-03 10:45:00,2011,November,Thursday,10
+430,1.25,15.0,12,France,Household,Chairs,2011-10-11 14:52:00,2011,October,Tuesday,14
+431,18.0,18.0,1,France,Household,Rugs,2011-07-17 14:56:00,2011,July,Sunday,14
+432,0.42,10.5,25,France,Household,Curtains,2011-07-27 13:14:00,2011,July,Wednesday,13
+433,0.83,59.76,72,France,Clothes,Tops,2011-08-31 11:22:00,2011,August,Wednesday,11
+434,0.85,10.2,12,France,Household,Rugs,2011-02-04 11:45:00,2011,February,Friday,11
+435,1.65,19.8,12,France,Clothes,Hats,2011-01-10 13:22:00,2011,January,Monday,13
+436,4.95,14.85,3,France,Garden,Turf,2011-01-10 13:22:00,2011,January,Monday,13
+437,1.25,30.0,24,France,Clothes,Tops,2011-11-30 15:43:00,2011,November,Wednesday,15
+438,4.95,19.8,4,France,Kitchen,Plates,2011-12-05 16:28:00,2011,December,Monday,16
+439,0.85,8.5,10,France,Clothes,Hats,2011-10-11 14:52:00,2011,October,Tuesday,14
+440,1.25,15.0,12,France,Kitchen,Cooking Knives,2011-01-14 09:13:00,2011,January,Friday,9
+441,2.55,61.2,24,France,Kitchen,Scales,2011-09-15 10:53:00,2011,September,Thursday,10
+442,0.85,10.2,12,France,Garden,Rakes,2011-06-08 10:10:00,2011,June,Wednesday,10
+443,0.42,10.5,25,France,Household,Rugs,2011-08-15 12:53:00,2011,August,Monday,12
+444,1.95,15.6,8,France,Garden,Turf,2011-03-23 13:33:00,2011,March,Wednesday,13
+445,0.65,15.6,24,France,Clothes,Shoes,2011-05-10 12:55:00,2011,May,Tuesday,12
+446,1.25,15.0,12,France,Kitchen,Coasters,2011-01-05 14:48:00,2011,January,Wednesday,14
+447,2.1,2.1,1,France,Kitchen,Coasters,2010-12-15 16:21:00,2010,December,Wednesday,16
+448,1.95,15.6,8,France,Garden,Hoses,2011-01-14 09:13:00,2011,January,Friday,9
+449,1.79,128.88,72,France,Clothes,Hats,2011-11-18 12:46:00,2011,November,Friday,12
+450,4.15,132.8,32,France,Kitchen,Scales,2011-10-12 14:46:00,2011,October,Wednesday,14
+451,18.0,108.0,6,France,Garden,Hoses,2011-08-26 15:44:00,2011,August,Friday,15
+452,1.25,15.0,12,France,Kitchen,Bowls,2011-03-28 10:15:00,2011,March,Monday,10
+453,1.65,19.8,12,France,Household,Lamps,2011-02-23 16:44:00,2011,February,Wednesday,16
+454,2.95,44.25,15,France,Clothes,Hats,2011-01-14 09:20:00,2011,January,Friday,9
+455,0.85,10.2,12,France,Kitchen,Coasters,2011-05-10 12:55:00,2011,May,Tuesday,12
+456,1.95,15.6,8,France,Household,Chairs,2011-09-21 14:08:00,2011,September,Wednesday,14
+457,0.55,13.2,24,France,Kitchen,Bowls,2011-11-08 12:45:00,2011,November,Tuesday,12
+458,1.65,26.4,16,France,Garden,Rakes,2011-09-02 13:15:00,2011,September,Friday,13
+459,18.0,54.0,3,France,Clothes,Shoes,2011-12-04 16:07:00,2011,December,Sunday,16
+460,1.45,17.4,12,France,Household,Rugs,2011-10-11 14:52:00,2011,October,Tuesday,14
+461,2.55,15.3,6,France,Kitchen,Coasters,2011-09-23 12:09:00,2011,September,Friday,12
+462,0.42,10.08,24,France,Garden,Rakes,2010-12-01 08:45:00,2010,December,Wednesday,8
+463,1.65,16.5,10,France,Clothes,Tops,2011-11-09 09:34:00,2011,November,Wednesday,9
+464,4.95,39.6,8,France,Kitchen,Cutlery,2011-08-15 12:53:00,2011,August,Monday,12
+465,0.65,31.2,48,France,Garden,Seeds,2011-06-22 11:20:00,2011,June,Wednesday,11
+466,1.65,13.2,8,France,Garden,Seeds,2011-03-20 15:58:00,2011,March,Sunday,15
+467,0.85,10.2,12,France,Clothes,Shoes,2011-01-06 16:12:00,2011,January,Thursday,16
+468,8.25,16.5,2,France,Kitchen,Bowls,2011-10-11 14:52:00,2011,October,Tuesday,14
+469,3.75,15.0,4,France,Garden,Hoses,2011-07-11 11:39:00,2011,July,Monday,11
+470,1.65,19.8,12,France,Garden,Turf,2011-01-14 10:42:00,2011,January,Friday,10
+471,1.65,9.9,6,France,Garden,Hoses,2011-01-07 13:13:00,2011,January,Friday,13
+472,2.08,12.48,6,France,Household,Rugs,2011-10-11 14:52:00,2011,October,Tuesday,14
+473,1.65,19.8,12,France,Clothes,Hats,2011-06-05 13:13:00,2011,June,Sunday,13
+474,0.42,10.5,25,France,Kitchen,Cooking Knives,2011-09-29 10:23:00,2011,September,Thursday,10
+475,10.95,21.9,2,France,Clothes,Tops,2010-12-09 12:17:00,2010,December,Thursday,12
+476,4.15,16.6,4,France,Kitchen,Plates,2011-05-31 13:32:00,2011,May,Tuesday,13
+477,0.65,7.8,12,France,Kitchen,Scales,2011-01-20 10:48:00,2011,January,Thursday,10
+478,1.25,30.0,24,France,Garden,Seeds,2011-03-01 12:26:00,2011,March,Tuesday,12
+479,0.42,5.04,12,France,Garden,Hoses,2011-05-08 16:10:00,2011,May,Sunday,16
+480,1.25,10.0,8,France,Clothes,Tops,2011-10-11 14:52:00,2011,October,Tuesday,14
+481,4.95,44.55,9,France,Garden,Seeds,2011-11-08 12:45:00,2011,November,Tuesday,12
+482,0.39,9.36,24,France,Garden,Hoses,2011-07-18 14:10:00,2011,July,Monday,14
+483,0.85,17.0,20,France,Household,Lamps,2011-01-19 11:51:00,2011,January,Wednesday,11
+484,1.25,2.5,2,France,Kitchen,Coasters,2011-11-10 16:27:00,2011,November,Thursday,16
+485,0.42,10.5,25,France,Garden,Turf,2011-02-09 10:11:00,2011,February,Wednesday,10
+486,1.79,214.8,120,France,Kitchen,Cooking Knives,2011-11-25 11:33:00,2011,November,Friday,11
+487,18.0,36.0,2,France,Household,Curtains,2011-10-12 14:18:00,2011,October,Wednesday,14
+488,0.85,20.4,24,France,Kitchen,Cooking Knives,2011-01-14 10:42:00,2011,January,Friday,10
+489,8.25,8.25,1,France,Household,Chairs,2011-11-04 13:24:00,2011,November,Friday,13
+490,2.25,18.0,8,France,Clothes,Shoes,2011-09-08 10:35:00,2011,September,Thursday,10
+491,2.08,24.96,12,France,Kitchen,Scales,2011-05-16 09:10:00,2011,May,Monday,9
+492,0.83,9.96,12,France,Clothes,Tops,2011-10-30 15:44:00,2011,October,Sunday,15
+493,2.95,17.7,6,France,Garden,Rakes,2011-05-22 13:01:00,2011,May,Sunday,13
+494,1.25,30.0,24,France,Clothes,Tops,2011-06-15 12:34:00,2011,June,Wednesday,12
+495,1.25,15.0,12,France,Household,Lamps,2011-03-13 14:55:00,2011,March,Sunday,14
+496,0.85,10.2,12,France,Garden,Turf,2011-03-03 12:06:00,2011,March,Thursday,12
+497,3.25,19.5,6,France,Clothes,Tops,2011-11-11 10:19:00,2011,November,Friday,10
+498,2.08,20.8,10,France,Household,Lamps,2011-05-25 12:44:00,2011,May,Wednesday,12
+499,1.65,39.6,24,France,Clothes,Hats,2011-02-01 14:58:00,2011,February,Tuesday,14
+500,1.65,16.5,10,France,Garden,Rakes,2011-05-17 09:28:00,2011,May,Tuesday,9
+501,1.25,60.0,48,France,Kitchen,Bowls,2011-01-31 09:57:00,2011,January,Monday,9
+502,1.25,30.0,24,France,Garden,Rakes,2011-11-11 10:19:00,2011,November,Friday,10
+503,0.65,14.3,22,France,Garden,Seeds,2011-11-07 16:31:00,2011,November,Monday,16
+504,4.15,24.9,6,France,Garden,Seeds,2011-08-23 14:23:00,2011,August,Tuesday,14
+505,2.95,35.4,12,France,Household,Chairs,2011-01-14 09:13:00,2011,January,Friday,9
+506,4.15,16.6,4,France,Garden,Seeds,2011-11-17 11:02:00,2011,November,Thursday,11
+507,4.95,19.8,4,France,Kitchen,Cooking Knives,2011-10-05 09:57:00,2011,October,Wednesday,9
+508,4.95,39.6,8,France,Garden,Turf,2011-11-03 10:45:00,2011,November,Thursday,10
+509,0.42,10.08,24,France,Garden,Turf,2011-05-10 12:55:00,2011,May,Tuesday,12
+510,2.1,25.2,12,France,Garden,Rakes,2011-05-27 13:49:00,2011,May,Friday,13
+511,4.15,16.6,4,France,Garden,Hoses,2011-12-09 12:50:00,2011,December,Friday,12
+512,0.85,8.5,10,France,Kitchen,Coasters,2011-01-19 11:51:00,2011,January,Wednesday,11
+513,0.85,20.4,24,France,Clothes,Shoes,2011-01-06 16:12:00,2011,January,Thursday,16
+514,1.25,15.0,12,France,Garden,Hoses,2011-10-12 11:22:00,2011,October,Wednesday,11
+515,4.95,14.85,3,France,Garden,Seeds,2011-11-29 11:46:00,2011,November,Tuesday,11
+516,4.15,33.2,8,France,Kitchen,Bowls,2011-09-07 13:22:00,2011,September,Wednesday,13
+517,2.1,12.6,6,France,Garden,Hoses,2011-11-03 09:43:00,2011,November,Thursday,9
+518,2.95,17.7,6,France,Clothes,Shoes,2011-02-15 14:17:00,2011,February,Tuesday,14
+519,1.79,515.52,288,France,Garden,Turf,2011-08-31 11:22:00,2011,August,Wednesday,11
+520,1.25,20.0,16,France,Kitchen,Cutlery,2011-09-08 10:32:00,2011,September,Thursday,10
+521,2.1,25.2,12,France,Kitchen,Coasters,2011-01-31 09:57:00,2011,January,Monday,9
+522,0.85,20.4,24,France,Kitchen,Cooking Knives,2011-05-03 09:33:00,2011,May,Tuesday,9
+523,18.0,18.0,1,France,Household,Rugs,2010-12-21 14:26:00,2010,December,Tuesday,14
+524,0.42,5.04,12,France,Clothes,Hats,2011-09-09 10:51:00,2011,September,Friday,10
+525,1.65,4.95,3,France,Kitchen,Coasters,2011-03-21 12:42:00,2011,March,Monday,12
+526,18.0,72.0,4,France,Kitchen,Bowls,2011-07-12 09:54:00,2011,July,Tuesday,9
+527,0.85,8.5,10,France,Kitchen,Cutlery,2011-09-23 12:09:00,2011,September,Friday,12
+528,0.29,13.92,48,France,Garden,Hoses,2011-08-21 14:42:00,2011,August,Sunday,14
+529,4.15,33.2,8,France,Kitchen,Cooking Knives,2011-06-13 11:33:00,2011,June,Monday,11
+530,5.95,35.7,6,France,Garden,Hoses,2011-11-01 13:56:00,2011,November,Tuesday,13
+531,1.25,30.0,24,France,Garden,Seeds,2011-03-23 12:06:00,2011,March,Wednesday,12
+532,4.95,14.85,3,France,Clothes,Hats,2011-03-21 12:42:00,2011,March,Monday,12
+533,0.82,8.2,10,France,Garden,Rakes,2011-09-21 10:40:00,2011,September,Wednesday,10
+534,0.12,0.36,3,France,Garden,Seeds,2011-11-04 13:15:00,2011,November,Friday,13
+535,2.1,75.6,36,France,Clothes,Tops,2011-03-23 13:33:00,2011,March,Wednesday,13
+536,8.5,17.0,2,France,Kitchen,Scales,2011-11-03 13:24:00,2011,November,Thursday,13
+537,0.83,9.96,12,France,Household,Curtains,2011-11-10 13:34:00,2011,November,Thursday,13
+538,0.42,0.42,1,France,Garden,Turf,2011-03-21 12:42:00,2011,March,Monday,12
+539,0.85,40.8,48,France,Kitchen,Scales,2011-05-03 08:40:00,2011,May,Tuesday,8
+540,1.65,16.5,10,France,Clothes,Tops,2011-03-28 10:15:00,2011,March,Monday,10
+541,8.95,44.75,5,France,Household,Lamps,2011-01-28 13:37:00,2011,January,Friday,13
+542,2.55,15.3,6,France,Kitchen,Bowls,2011-04-04 11:18:00,2011,April,Monday,11
+543,1.65,49.5,30,France,Household,Rugs,2011-11-16 11:59:00,2011,November,Wednesday,11
+544,0.19,68.4,360,France,Garden,Hoses,2011-06-12 10:47:00,2011,June,Sunday,10
+545,0.42,5.04,12,France,Household,Rugs,2011-01-05 12:42:00,2011,January,Wednesday,12
+546,1.25,12.5,10,France,Clothes,Hats,2011-08-21 14:42:00,2011,August,Sunday,14
+547,18.0,18.0,1,France,Kitchen,Bowls,2011-11-18 15:14:00,2011,November,Friday,15
+548,1.25,10.0,8,France,Household,Curtains,2011-08-04 10:04:00,2011,August,Thursday,10
+549,0.39,4.68,12,France,Garden,Rakes,2011-09-11 12:27:00,2011,September,Sunday,12
+550,2.1,25.2,12,France,Garden,Seeds,2011-01-20 10:47:00,2011,January,Thursday,10
+551,2.55,30.6,12,France,Clothes,Tops,2011-01-31 09:57:00,2011,January,Monday,9
+552,1.25,10.0,8,France,Kitchen,Cutlery,2011-07-12 09:54:00,2011,July,Tuesday,9
+553,0.85,20.4,24,France,Clothes,Hats,2011-03-31 13:40:00,2011,March,Thursday,13
+554,2.55,30.6,12,France,Garden,Rakes,2011-05-18 10:34:00,2011,May,Wednesday,10
+555,1.25,1.25,1,France,Kitchen,Cutlery,2010-12-15 16:21:00,2010,December,Wednesday,16
+556,1.65,16.5,10,France,Household,Lamps,2011-11-30 14:16:00,2011,November,Wednesday,14
+557,7.95,15.9,2,France,Clothes,Hats,2011-05-11 13:20:00,2011,May,Wednesday,13
+558,2.08,20.8,10,France,Household,Curtains,2011-09-21 12:26:00,2011,September,Wednesday,12
+559,0.85,17.0,20,France,Kitchen,Coasters,2011-06-15 09:01:00,2011,June,Wednesday,9
+560,1.25,2.5,2,France,Kitchen,Coasters,2011-10-05 15:52:00,2011,October,Wednesday,15
+561,1.65,19.8,12,France,Household,Chairs,2011-08-26 15:44:00,2011,August,Friday,15
+562,2.08,20.8,10,France,Kitchen,Cutlery,2011-05-31 13:32:00,2011,May,Tuesday,13
+563,1.25,15.0,12,France,Kitchen,Scales,2011-01-05 14:48:00,2011,January,Wednesday,14
+564,18.0,18.0,1,France,Garden,Seeds,2011-09-22 16:58:00,2011,September,Thursday,16
+565,0.21,5.04,24,France,Garden,Rakes,2011-12-06 16:34:00,2011,December,Tuesday,16
+566,1.65,19.8,12,France,Clothes,Tops,2010-12-09 14:49:00,2010,December,Thursday,14
+567,0.85,10.2,12,France,Household,Lamps,2010-12-09 14:49:00,2010,December,Thursday,14
+568,6.75,13.5,2,France,Garden,Rakes,2011-11-24 15:01:00,2011,November,Thursday,15
+569,1.25,10.0,8,France,Household,Curtains,2011-11-30 15:43:00,2011,November,Wednesday,15
+570,2.08,20.8,10,France,Garden,Rakes,2011-11-17 11:34:00,2011,November,Thursday,11
+571,6.75,67.5,10,France,Household,Rugs,2011-07-18 14:10:00,2011,July,Monday,14
+572,3.75,15.0,4,France,Clothes,Hats,2011-03-28 10:15:00,2011,March,Monday,10
+573,0.65,15.6,24,France,Kitchen,Plates,2011-03-11 12:00:00,2011,March,Friday,12
+574,1.95,163.8,84,France,Garden,Hoses,2011-06-05 11:53:00,2011,June,Sunday,11
+575,4.15,16.6,4,France,Household,Chairs,2011-12-05 16:28:00,2011,December,Monday,16
+576,0.85,40.8,48,France,Household,Rugs,2011-09-29 15:31:00,2011,September,Thursday,15
+577,2.55,244.8,96,France,Clothes,Tops,2011-10-28 07:39:00,2011,October,Friday,7
+578,0.65,7.8,12,France,Garden,Hoses,2011-02-18 10:53:00,2011,February,Friday,10
+579,4.15,16.6,4,France,Household,Lamps,2011-05-19 12:29:00,2011,May,Thursday,12
+580,3.25,19.5,6,France,Clothes,Tops,2011-07-29 13:28:00,2011,July,Friday,13
+581,18.0,18.0,1,France,Household,Lamps,2011-02-27 11:58:00,2011,February,Sunday,11
+582,0.42,10.5,25,France,Clothes,Hats,2011-07-29 13:28:00,2011,July,Friday,13
+583,0.42,5.04,12,France,Household,Chairs,2011-05-11 15:07:00,2011,May,Wednesday,15
+584,18.0,72.0,4,France,Household,Lamps,2011-11-29 11:46:00,2011,November,Tuesday,11
+585,0.42,8.4,20,France,Clothes,Hats,2011-12-02 10:47:00,2011,December,Friday,10
+586,1.95,46.8,24,France,Household,Lamps,2011-06-15 14:14:00,2011,June,Wednesday,14
+587,1.95,19.5,10,France,Garden,Hoses,2011-02-09 10:11:00,2011,February,Wednesday,10
+588,3.75,30.0,8,France,Garden,Seeds,2011-09-09 11:48:00,2011,September,Friday,11
+589,1.65,19.8,12,France,Clothes,Tops,2011-03-28 10:15:00,2011,March,Monday,10
+590,2.55,15.3,6,France,Clothes,Shoes,2011-06-05 13:13:00,2011,June,Sunday,13
+591,1.65,19.8,12,France,Clothes,Shoes,2011-08-25 13:12:00,2011,August,Thursday,13
+592,0.85,17.0,20,France,Clothes,Hats,2011-05-03 08:40:00,2011,May,Tuesday,8
+593,2.95,17.7,6,France,Kitchen,Cooking Knives,2011-06-05 15:29:00,2011,June,Sunday,15
+594,3.75,15.0,4,France,Clothes,Tops,2011-04-20 09:20:00,2011,April,Wednesday,9
+595,2.95,17.7,6,France,Kitchen,Plates,2011-01-12 15:00:00,2011,January,Wednesday,15
+596,0.42,5.04,12,France,Garden,Rakes,2011-08-25 15:04:00,2011,August,Thursday,15
+597,0.85,51.0,60,France,Kitchen,Cutlery,2011-11-16 11:59:00,2011,November,Wednesday,11
+598,0.39,4.68,12,France,Garden,Turf,2011-12-06 16:34:00,2011,December,Tuesday,16
+599,11.95,23.9,2,France,Clothes,Shoes,2011-10-12 11:22:00,2011,October,Wednesday,11
+600,2.95,17.7,6,Australia,Household,Lamps,2011-07-24 12:05:00,2011,July,Sunday,12
+601,1.65,39.6,24,Australia,Garden,Seeds,2011-09-28 14:55:00,2011,September,Wednesday,14
+602,3.39,169.5,50,Australia,Household,Curtains,2011-10-05 12:44:00,2011,October,Wednesday,12
+603,1.65,16.5,10,Australia,Garden,Rakes,2011-01-11 09:47:00,2011,January,Tuesday,9
+604,1.45,208.8,144,Australia,Kitchen,Scales,2011-09-01 13:51:00,2011,September,Thursday,13
+605,6.75,67.5,10,Australia,Kitchen,Plates,2011-05-23 09:14:00,2011,May,Monday,9
+606,7.95,15.9,2,Australia,Garden,Rakes,2011-09-16 12:38:00,2011,September,Friday,12
+607,4.95,14.85,3,Australia,Clothes,Shoes,2011-09-16 12:38:00,2011,September,Friday,12
+608,1.25,90.0,72,Australia,Household,Curtains,2011-06-15 13:37:00,2011,June,Wednesday,13
+609,7.95,15.9,2,Australia,Household,Lamps,2011-03-24 13:05:00,2011,March,Thursday,13
+610,3.25,312.0,96,Australia,Household,Rugs,2011-02-15 09:52:00,2011,February,Tuesday,9
+611,1.04,399.36,384,Australia,Kitchen,Cutlery,2011-07-13 15:30:00,2011,July,Wednesday,15
+612,1.65,19.8,12,Australia,Kitchen,Plates,2011-09-16 12:38:00,2011,September,Friday,12
+613,2.55,30.6,12,Australia,Clothes,Tops,2011-07-14 13:28:00,2011,July,Thursday,13
+614,6.75,27.0,4,Australia,Household,Rugs,2011-02-27 14:43:00,2011,February,Sunday,14
+615,0.34,68.0,200,Australia,Clothes,Shoes,2011-02-15 09:52:00,2011,February,Tuesday,9
+616,1.45,139.2,96,Australia,Clothes,Shoes,2011-03-03 10:59:00,2011,March,Thursday,10
+617,0.38,36.48,96,Australia,Household,Curtains,2011-05-17 15:42:00,2011,May,Tuesday,15
+618,1.65,158.4,96,Australia,Kitchen,Scales,2011-11-15 10:32:00,2011,November,Tuesday,10
+619,0.55,633.6,1152,Australia,Garden,Seeds,2011-09-01 13:50:00,2011,September,Thursday,13
+620,2.89,52.02,18,Australia,Clothes,Hats,2011-09-25 11:30:00,2011,September,Sunday,11
+621,4.25,510.0,120,Australia,Kitchen,Bowls,2011-03-03 10:59:00,2011,March,Thursday,10
+622,3.25,13.0,4,Australia,Kitchen,Bowls,2011-07-19 10:42:00,2011,July,Tuesday,10
+623,0.36,51.84,144,Australia,Kitchen,Coasters,2011-02-15 09:52:00,2011,February,Tuesday,9
+624,4.15,16.6,4,Australia,Household,Chairs,2011-07-19 10:42:00,2011,July,Tuesday,10
+625,2.08,41.6,20,Australia,Household,Rugs,2011-10-06 09:31:00,2011,October,Thursday,9
+626,1.65,237.6,144,Australia,Kitchen,Scales,2011-08-18 08:51:00,2011,August,Thursday,8
+627,1.45,69.6,48,Australia,Household,Lamps,2011-05-17 15:42:00,2011,May,Tuesday,15
+628,2.95,53.1,18,Australia,Garden,Hoses,2011-02-07 15:10:00,2011,February,Monday,15
+629,0.72,69.12,96,Australia,Clothes,Shoes,2011-11-15 10:32:00,2011,November,Tuesday,10
+630,0.34,136.0,400,Australia,Kitchen,Bowls,2011-06-15 13:37:00,2011,June,Wednesday,13
+631,3.39,271.2,80,Australia,Household,Lamps,2011-01-06 11:12:00,2011,January,Thursday,11
+632,2.08,20.8,10,Australia,Garden,Seeds,2011-10-06 09:32:00,2011,October,Thursday,9
+633,0.19,18.24,96,Australia,Garden,Rakes,2011-11-24 12:30:00,2011,November,Thursday,12
+634,1.25,120.0,96,Australia,Kitchen,Cooking Knives,2011-06-15 13:37:00,2011,June,Wednesday,13
+635,2.95,147.5,50,Australia,Kitchen,Bowls,2010-12-17 14:10:00,2010,December,Friday,14
+636,5.95,47.6,8,Australia,Kitchen,Cutlery,2011-03-24 13:05:00,2011,March,Thursday,13
+637,1.65,16.5,10,Australia,Kitchen,Cutlery,2011-08-12 14:19:00,2011,August,Friday,14
+638,0.36,51.84,144,Australia,Garden,Seeds,2011-03-03 10:59:00,2011,March,Thursday,10
+639,1.65,237.6,144,Australia,Clothes,Hats,2011-05-17 15:42:00,2011,May,Tuesday,15
+640,1.04,124.8,120,Australia,Household,Rugs,2011-08-18 08:51:00,2011,August,Thursday,8
+641,3.39,488.16,144,Australia,Clothes,Hats,2011-03-03 10:59:00,2011,March,Thursday,10
+642,1.95,23.4,12,Australia,Clothes,Tops,2011-09-28 15:41:00,2011,September,Wednesday,15
+643,1.85,222.0,120,Australia,Garden,Hoses,2011-06-15 13:37:00,2011,June,Wednesday,13
+644,3.75,180.0,48,Australia,Household,Rugs,2011-06-15 13:37:00,2011,June,Wednesday,13
+645,0.37,44.4,120,Australia,Household,Curtains,2011-01-06 11:12:00,2011,January,Thursday,11
+646,0.25,108.0,432,Australia,Clothes,Tops,2011-03-03 10:59:00,2011,March,Thursday,10
+647,4.95,178.2,36,Australia,Kitchen,Plates,2011-05-17 15:42:00,2011,May,Tuesday,15
+648,1.45,139.2,96,Australia,Kitchen,Plates,2011-01-06 11:12:00,2011,January,Thursday,11
+649,2.49,179.28,72,Australia,Kitchen,Plates,2011-08-18 08:51:00,2011,August,Thursday,8
+650,2.95,11.8,4,Hong Kong,Clothes,Shoes,2011-05-13 14:09:00,2011,May,Friday,14
+651,2.95,11.8,4,Hong Kong,Household,Rugs,2011-05-13 14:09:00,2011,May,Friday,14
+652,1.95,11.7,6,Hong Kong,Household,Rugs,2011-05-13 14:09:00,2011,May,Friday,14
+653,5.95,17.85,3,Hong Kong,Garden,Rakes,2011-05-13 14:09:00,2011,May,Friday,14
+654,0.21,7.56,36,Hong Kong,Household,Rugs,2011-10-18 12:17:00,2011,October,Tuesday,12
+655,4.15,99.6,24,Hong Kong,Kitchen,Cooking Knives,2011-08-23 09:38:00,2011,August,Tuesday,9
+656,3.75,45.0,12,Hong Kong,Household,Lamps,2011-04-12 09:28:00,2011,April,Tuesday,9
+657,1.65,59.4,36,Hong Kong,Garden,Rakes,2011-01-24 14:24:00,2011,January,Monday,14
+658,3.75,15.0,4,Hong Kong,Household,Curtains,2011-10-18 12:17:00,2011,October,Tuesday,12
+659,4.95,14.85,3,Hong Kong,Kitchen,Bowls,2011-10-18 12:17:00,2011,October,Tuesday,12
+660,8.25,66.0,8,Hong Kong,Kitchen,Cooking Knives,2011-08-23 09:38:00,2011,August,Tuesday,9
+661,3.75,15.0,4,Hong Kong,Garden,Hoses,2011-10-18 12:17:00,2011,October,Tuesday,12
+662,0.42,10.08,24,Hong Kong,Clothes,Hats,2011-10-18 12:17:00,2011,October,Tuesday,12
+663,4.95,39.6,8,Hong Kong,Clothes,Hats,2011-08-23 09:38:00,2011,August,Tuesday,9
+664,1.25,20.0,16,Hong Kong,Household,Rugs,2011-08-23 09:38:00,2011,August,Tuesday,9
+665,2.1,52.5,25,Hong Kong,Clothes,Tops,2011-01-24 14:24:00,2011,January,Monday,14
+666,3.25,19.5,6,Hong Kong,Garden,Turf,2011-01-24 14:24:00,2011,January,Monday,14
+667,0.55,13.2,24,Hong Kong,Clothes,Shoes,2011-05-13 14:09:00,2011,May,Friday,14
+668,2.55,244.8,96,Hong Kong,Clothes,Tops,2011-01-24 14:24:00,2011,January,Monday,14
+669,0.85,10.2,12,Hong Kong,Garden,Turf,2011-08-23 09:38:00,2011,August,Tuesday,9
+670,10.95,43.8,4,Hong Kong,Clothes,Hats,2011-01-24 14:24:00,2011,January,Monday,14
+671,1.25,30.0,24,Hong Kong,Household,Lamps,2011-10-18 12:17:00,2011,October,Tuesday,12
+672,2.1,12.6,6,Hong Kong,Household,Curtains,2011-05-13 14:09:00,2011,May,Friday,14
+673,1.65,19.8,12,Hong Kong,Garden,Hoses,2011-08-23 09:38:00,2011,August,Tuesday,9
+674,0.65,23.4,36,Hong Kong,Kitchen,Cutlery,2011-10-28 08:20:00,2011,October,Friday,8
+675,1.25,12.5,10,Hong Kong,Household,Curtains,2011-08-23 09:38:00,2011,August,Tuesday,9
+676,0.55,13.2,24,Hong Kong,Garden,Hoses,2011-05-13 14:09:00,2011,May,Friday,14
+677,0.85,10.2,12,Hong Kong,Kitchen,Scales,2011-05-13 14:09:00,2011,May,Friday,14
+678,3.95,31.6,8,Hong Kong,Garden,Rakes,2011-05-13 14:09:00,2011,May,Friday,14
+679,1.95,15.6,8,Hong Kong,Clothes,Shoes,2011-04-12 09:28:00,2011,April,Tuesday,9
+680,0.85,8.5,10,Hong Kong,Kitchen,Coasters,2011-05-13 14:09:00,2011,May,Friday,14
+681,0.85,8.5,10,Hong Kong,Clothes,Hats,2011-05-13 14:09:00,2011,May,Friday,14
+682,1.95,11.7,6,Hong Kong,Clothes,Shoes,2011-10-18 12:17:00,2011,October,Tuesday,12
+683,1.65,16.5,10,Hong Kong,Kitchen,Bowls,2011-05-13 14:09:00,2011,May,Friday,14
+684,2.95,53.1,18,Hong Kong,Household,Lamps,2011-08-23 09:38:00,2011,August,Tuesday,9
+685,15.0,15.0,1,Hong Kong,Garden,Rakes,2011-06-22 10:27:00,2011,June,Wednesday,10
+686,3.25,19.5,6,Hong Kong,Household,Rugs,2011-05-13 14:09:00,2011,May,Friday,14
+687,2.55,15.3,6,Hong Kong,Garden,Seeds,2011-05-13 14:09:00,2011,May,Friday,14
+688,1.65,66.0,40,Hong Kong,Household,Chairs,2011-01-24 14:24:00,2011,January,Monday,14
+689,3.75,90.0,24,Hong Kong,Clothes,Shoes,2011-01-24 14:24:00,2011,January,Monday,14
+690,4.95,19.8,4,Hong Kong,Clothes,Tops,2011-01-24 14:24:00,2011,January,Monday,14
+691,2.55,122.4,48,Hong Kong,Garden,Hoses,2011-08-23 09:38:00,2011,August,Tuesday,9
+692,1.25,12.5,10,Hong Kong,Garden,Hoses,2011-04-12 09:28:00,2011,April,Tuesday,9
+693,8.25,66.0,8,Hong Kong,Garden,Hoses,2011-08-23 09:38:00,2011,August,Tuesday,9
+694,0.85,27.2,32,Hong Kong,Household,Curtains,2011-05-13 14:09:00,2011,May,Friday,14
+695,1.25,20.0,16,Hong Kong,Clothes,Tops,2011-08-23 09:38:00,2011,August,Tuesday,9
+696,4.95,29.7,6,Hong Kong,Garden,Rakes,2011-08-23 09:38:00,2011,August,Tuesday,9
+697,0.85,27.2,32,Hong Kong,Kitchen,Cooking Knives,2011-05-13 14:09:00,2011,May,Friday,14
